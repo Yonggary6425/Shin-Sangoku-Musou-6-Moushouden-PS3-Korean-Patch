@@ -4,14 +4,13 @@
 
 > 본 한글패치는 개인이 제작한 비공식·비상업적 팬 한글패치입니다. — by **Yonggary6425 (용가리)**
 
-## 다운로드 (둘 중 하나만 받으세요)
+## 다운로드
 
 | 파일 | 크기 | SHA-256 |
 |---|---|---|
-| `SSM6_Moushouden_KOR_Patch_v1.0.zip` (일반판) | 195.5 MB | `100cce54465c115693749c2727a246beee4137b4eabf898212eae91dc72d093d` |
-| `SSM6_Moushouden_KOR_Patch_v1.0_xdelta.zip` (xdelta판) | 23.0 MB | `b0662705eaa2377d0a37e6853bc1ad7fd996027547538d3b92a069967ed9e090` |
+| `SSM6_Moushouden_KOR_Patch_v1.0_xdelta.zip` | 23.0 MB | `b0662705eaa2377d0a37e6853bc1ad7fd996027547538d3b92a069967ed9e090` |
 
-- 일반판과 xdelta판은 결과가 똑같습니다. xdelta판은 원본과의 차이만 담아 크기가 작습니다.
+- 원본과의 차이(xdelta)만 담은 패처입니다. 손대지 않은 일본판 원본이 필요합니다.
 - 압축을 풀고 게임 폴더나 ISO를 `한글패치_적용.bat` 위에 끌어다 놓으면 됩니다. 자세한 방법은 `읽어보기.txt`와 README를 보세요.
 
 ## 한글화 범위
