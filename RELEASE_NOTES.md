@@ -8,7 +8,7 @@
 
 | 파일 | 크기 | SHA-256 |
 |---|---|---|
-| `SSM6_Moushouden_KOR_Patch_v1.0_xdelta.zip` | 23.0 MB | `b0662705eaa2377d0a37e6853bc1ad7fd996027547538d3b92a069967ed9e090` |
+| `SSM6_Moushouden_KOR_Patch_v1.0_xdelta.zip` | 23.0 MB | `3b6fc37542ba0e58008abaa4acfb5c64645fa699caba11e8a9a6ab85d28f77b8` |
 
 - 원본과의 차이(xdelta)만 담은 패처입니다. 손대지 않은 일본판 원본이 필요합니다.
 - 압축을 풀고 게임 폴더나 ISO를 `한글패치_적용.bat` 위에 끌어다 놓으면 됩니다. 자세한 방법은 `읽어보기.txt`와 README를 보세요.
